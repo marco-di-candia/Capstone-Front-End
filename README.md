@@ -1,2 +1,2 @@
-# Capstone-Front-End
-Capstone-Front-End
+# Capstone
+Capstone
